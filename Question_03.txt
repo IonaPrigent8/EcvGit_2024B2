@@ -1,2 +1,2 @@
 A quoi sert Git ?
--> 
+-> A pouvoir versionner et stocker du code 
